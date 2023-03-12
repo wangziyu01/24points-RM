@@ -3,9 +3,9 @@
 
 24点核心计算程序
 
-版权所有(C) 2023 wangziyu0305 授权东风狼全体队员使用
+版权所有(C) 2023 wangziyu0305
 
-Copyright(C) 2023 wangziyu0305 LICENSED for ONLY DFL  to use and modify
+Copyright(C) 2023 wangziyu0305
 
 Ver 2.0.4 Pre-Release
 
